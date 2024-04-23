@@ -5,3 +5,4 @@
 * try to control the user input when you can use ```.lower()```
 * Can find absolute value ```.abs()```
 * Your wont be able to call a value in a key-pair by a number like in a list
+* Dictionaries can be built into a list to hold more information
