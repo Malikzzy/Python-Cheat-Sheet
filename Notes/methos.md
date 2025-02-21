@@ -1,0 +1,1 @@
+## Removed Whitespace from STR
