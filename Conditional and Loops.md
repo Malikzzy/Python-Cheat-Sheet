@@ -23,3 +23,8 @@
 * Example ``` while True: if i>0: break ```
 * Use ```continue``` to continue the loop
 * Again use the ```continue/break``` while in a infinite loop aka ```while True``` 
+
+
+## Extra 
+* When using def aka making a fuction but a veriable within creating it when you want to pass it something otherwise leave it blank and use return
+* 
