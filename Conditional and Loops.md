@@ -14,7 +14,7 @@
 
 ## List 
 * Use ```[]```
-* 
+* len()
 
 
 ## While
@@ -25,6 +25,13 @@
 * Again use the ```continue/break``` while in a infinite loop aka ```while True``` 
 
 
+## dict
+* They use ```{}```
+* To call on the pair use the name assiocated with that "key pair"
+* Example ```nick_name = { Malik:Subzero Zazu:Mr.Wiskers}``` ```print(nick_name[Zazu}``` output:```Mr.Wiskers```
+* 
+
+
 ## Extra 
 * When using def aka making a fuction but a veriable within creating it when you want to pass it something otherwise leave it blank and use return
-* 
+* ```None``` the absabce of a value
