@@ -8,4 +8,19 @@
 * 
 
 ## Random 
-* ```random.choice()``` this will allow 
+* ```random.choice(seq)``` takes a list of stings and outputs one of them randomy
+* ```random.randint(a,b)``` takes a range of number and out put a random number
+* ```random.shuffle(x)``` random order of a list 
+* 
+
+## statistics
+* statistics.mean() that a list of number and output the mean
+
+## Extra 
+* seq in documentation means a list 
+
+## Sys
+* ```import sys```
+* ```sys.argv()``` will take a list and be used to send
+* Example of sys.argv() ```print(sys.argv[1])```. In terminal ```nameoffile.py hi``` Output ```hi```
+* With in ternmali if you use stings like you would in powershell it would include any speration made by spaces 
