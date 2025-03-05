@@ -24,3 +24,10 @@
 * ```sys.argv()``` will take a list and be used to send
 * Example of sys.argv() ```print(sys.argv[1])```. In terminal ```nameoffile.py hi``` Output ```hi```
 * With in ternmali if you use stings like you would in powershell it would include any speration made by spaces 
+
+
+## Errors 
+* list index out of range use ```IndexError```
+
+## Extra
+* Using condintal statesments is aonther way to control errors 
