@@ -43,8 +43,11 @@
   ## APIs
   * the ```requests``` libary can be use to make internet request as if it was a browser
   * requests can be installed with pip
-  * use the ```.get()``` fuction to call to the site 
+  * use the ```.get()``` fuction to call to the site
+  * ```x.json``` to import json data 
   * use ```json()``` from the requests libaary to return the data in a jason format. example ```response = API.com/ect/ect
 
   * you also have ```json.dumps()``` to format the data when first working with the data
-  * 
+  * ```json.dumps(x, indent =2)```
+  * ```request.get(url)```
+  * ```requests.json()```
