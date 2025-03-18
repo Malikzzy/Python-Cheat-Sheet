@@ -30,3 +30,4 @@
 * .rstrip()	Right side only
 * You can also specify which characters to remove.
 * .rstrip("!")
+* csv stamds for comma sperated file
