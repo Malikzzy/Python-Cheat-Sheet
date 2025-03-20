@@ -32,4 +32,9 @@
 * .rstrip("!")
 * csv stamds for comma sperated file
 * When working with a diconary you can assign a new key value, example ```hi ={}``` ```hi["name"] = 'Bob' hi["age"] = 69
-* 
+  
+  ## Lamda
+  * Create a temp function
+  * Only used onetime
+  * Will always ```return``` data
+  
