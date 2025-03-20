@@ -31,3 +31,5 @@
 * You can also specify which characters to remove.
 * .rstrip("!")
 * csv stamds for comma sperated file
+* When working with a diconary you can assign a new key value, example ```hi ={}``` ```hi["name"] = 'Bob' hi["age"] = 69
+* 
