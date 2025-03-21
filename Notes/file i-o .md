@@ -37,4 +37,11 @@
   * Create a temp function
   * Only used onetime
   * Will always ```return``` data
-  
+  * You can use lammba can define multiple variables, example ```lambda x,y,z: x=1,y=2,z=3```
+ 
+    ## CVS Libary
+    * import csv
+    * csv.reader(file)
+    * rows can be called by assining a variable and using a index to to select [0] would be row 1 and [1] would be row 2
+    * csv will return in as a list aka why you are using a index to call for the data
+    * csv.DictReader can be used when there is a columbn name 
