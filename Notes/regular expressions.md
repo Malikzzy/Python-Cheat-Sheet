@@ -13,7 +13,7 @@
   * ```^``` start of the string and ```$``` end of the string
   * ```[]``` set of characters
   * ```[^]```  you cannot match any of theses characters
-  * ```[^] can aslo take another varibale that is to say exerthing except [^@] aka everthing extecpt @
+  * ```[^]``` can aslo take another varibale that is to say exerthing except [^@] aka everthing extecpt @
   *  you can do take a range ```[a-zA-Z0-9]```
   *   This ```[a-zA-Z0-9]``` can also be done by using a word charcter ```\w```
   *   ![image](https://github.com/user-attachments/assets/4572753b-57da-4028-b30e-04b25b434293)
