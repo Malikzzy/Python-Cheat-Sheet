@@ -22,4 +22,14 @@
   *   <img width="282" alt="image" src="https://github.com/user-attachments/assets/38dea3c2-88b2-4b1f-a0fc-369df661fada" />
   *   Can be used in the flag pramater, ```re.search(r"",string,re.IGNORECASE)
   *   <img width="395" alt="image" src="https://github.com/user-attachments/assets/373ccc4b-40f8-4e9a-8d22-abd95a040b7d" />
-  *   hjkh
+  *   When allowing a special char like . when you have \w you will need to escape it for example ```(\w|\.)```
+  *   Walrus expression ```:=``` allows you to assign a variable and ask a boolen question
+  *   .group() .replace() .removeprefix()
+  *   re.sub()
+  *   <img width="422" alt="image" src="https://github.com/user-attachments/assets/56efa054-00d1-468a-a1ca-c512b7d3227f" />
+  *   Take it slow, step by step and test
+  *   You can use .group() to call on the groups of the reg string
+  *   <img width="568" alt="image" src="https://github.com/user-attachments/assets/be9a1348-99a2-4435-a797-4fea1067ed08" />
+  *   Using (:?) in front of the group will have it ingronred thus groping your .group() count value
+  *   <img width="569" alt="image" src="https://github.com/user-attachments/assets/d58c46b0-6863-4512-9135-99b31041b1c5" />
+  *   re.split(),re.findall()
