@@ -9,5 +9,14 @@
 
 ## Classes
 * Classes have aributes
+* Sytax is ```Class Name_X:```
+* You can use ```...``` as a place holder
 * This is were you start to use the . for example   ````Class Example      example.test example.test2````
+* can delcare a value inside of a class with ```.``` so ```` class example: ...    example.test````
+* can call it without () , meaning can be called as so ```print(example.test)```
+* Classes creates objests
+* objest is when you use the fuctionalilty of the object
+* abother word for an object is an instance
+* you can store attubies by using the ```.``` notation
+* methos are functions that can be created within the class
 * 
