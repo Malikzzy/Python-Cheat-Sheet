@@ -46,5 +46,10 @@
 * You can use ```if not some_var``` just like if it was ```if some_var == ""``` (this is the same thing)
 * You can use ```raise``` to output your own error along with a reason why
 * Example ```raise ValueError("your missing a key")``` "ValueError" can you what ever you what it to be but best case say to raise on a error that is native.
-
+*  **Match case** aka a (which case) you use ```match``` to intiate a ```case``` a set of cases to "match" followed by identation
+*  Used ```_``` as a nothing aka like a ```else``` statment 
+*  Usecase  ```Below 👇🏽``` 
+*  ![image](https://github.com/user-attachments/assets/6db4295c-2622-456a-963e-8575153be169)
+* 
+  
   
