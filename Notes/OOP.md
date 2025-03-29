@@ -19,4 +19,32 @@
 * abother word for an object is an instance
 * you can store attubies by using the ```.``` notation
 * methos are functions that can be created within the class
+
+## Definding a medthod aka a fucntion within a cslass
+* ```class Give_Name:```
+* ```def__init__ (self,somepar1,somepar2=None):```
+* ```self.Variable_1 = input("say something")```
+* ```self.Variable_2 = "some action"```
+* This then can be called with``` Give_Name.Variable_1``` and ```Give_Name.Variable_2```
+ 
+## __str__
+* used for passing your fuction as a string
+* str is used with the class to when called or run is a string is needed to be passed like when using print() when the print() looks through the block of code its this and reutrn whatever pice of string you want to pass
+* it too needs (self) and can only take this 1 pramarter
+* example ```def __str__ (self) retrun f"here is your reutn along with {self.somevalue}```
+
+
+
+## Methods 
+* When ever you make your own fuction aka a method you must always call the its first pramater as its self
+* example ```def something_new (self):``` even if you dont use it you still need
 * 
+
+
+
+## Extra
+* You can use ```if not some_var``` just like if it was ```if some_var == ""``` (this is the same thing)
+* You can use ```raise``` to output your own error along with a reason why
+* Example ```raise ValueError("your missing a key")``` "ValueError" can you what ever you what it to be but best case say to raise on a error that is native.
+
+  
