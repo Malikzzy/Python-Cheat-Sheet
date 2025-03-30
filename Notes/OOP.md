@@ -38,8 +38,9 @@
 ## Methods 
 * When ever you make your own fuction aka a method you must always call the its first pramater as its self
 * example ```def something_new (self):``` even if you dont use it you still need
-* 
-
+* self made methods a work a bit differnt in that thy can return when called
+* example ```class new_ class: def__init___(self,par1, par2)  def something_new (self): return "hi"```
+* example ```print(new_class.something_new())```
 
 
 ## Extra
