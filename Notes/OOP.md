@@ -42,6 +42,19 @@
 * example ```class new_ class: def__init___(self,par1, par2)  def something_new (self): return "hi"```
 * example ```print(new_class.something_new())```
 
+## Properties 
+* A way of hardening your class's object to make them less change able
+* Using the @properties
+* Also knowm as decorators
+* Getter = get some value, Setter = set some value
+* To set a Getter use ```@property``` ontop of your fuction.
+* Example ```@property def some_method(self): return self.some_method```
+* Then for the setter you'll use the . notation wih setter. It needs the name of the medthod you are setting the . notation setter
+* Example ```@some_method.setter def some_medthod(self,parm1): self.some_method = xxxxxx```
+* So when using setter think you are settings a varaible
+* And for getter you are getting some variable
+* 1 arg for getter and 2 arg for setter  
+
 
 ## Extra
 * You can use ```if not some_var``` just like if it was ```if some_var == ""``` (this is the same thing)
@@ -51,6 +64,6 @@
 *  Used ```_``` as a nothing aka like a ```else``` statment 
 *  Usecase  ```Below 👇🏽``` 
 *  ![image](https://github.com/user-attachments/assets/6db4295c-2622-456a-963e-8575153be169)
-* 
+* A variable instead of the class __init__ is called an instance variavle 
   
   
