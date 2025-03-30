@@ -55,6 +55,25 @@
 * And for getter you are getting some variable
 * 1 arg for getter and 2 arg for setter  
 
+# @ Class Method
+* Its use case is when having __method Varaibles__ within a class
+* You have a variable that is set to be within the class
+* You then use a decorator to make your fuction or method a class method
+* Start with ```@classmethod``` at the top
+* Set your function, then very important __!!!__ instead of using ```self``` use ```cls```
+*  Example 
+     ![image](https://github.com/user-attachments/assets/4ba68ab3-549e-4f8f-9d5a-5a5108bb390a)
+
+
+
+
+
+
+
+
+
+
+
 
 ## Extra
 * You can use ```if not some_var``` just like if it was ```if some_var == ""``` (this is the same thing)
@@ -64,6 +83,7 @@
 *  Used ```_``` as a nothing aka like a ```else``` statment 
 *  Usecase  ```Below 👇🏽``` 
 *  ![image](https://github.com/user-attachments/assets/6db4295c-2622-456a-963e-8575153be169)
-* A variable instead of the class __init__ is called an instance variavle 
+* A variable instead of the class __init__ is called an instance variavle
+* Captitlize your Class name
   
   
