@@ -64,15 +64,11 @@
 *  Example 
      ![image](https://github.com/user-attachments/assets/4ba68ab3-549e-4f8f-9d5a-5a5108bb390a)
 
+## Inheritance 
 
-
-
-
-
-
-
-
-
+## Operator overloadding
+* you can onverride what a operator does within a call
+* For add you can use ```def __add__ (self,other)```
 
 
 ## Extra
