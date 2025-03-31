@@ -65,10 +65,23 @@
      ![image](https://github.com/user-attachments/assets/4ba68ab3-549e-4f8f-9d5a-5a5108bb390a)
 
 ## Inheritance 
+* To pull aka to inherante from another call created your new call and call what you would like to inherente from in ()
+* Example class Tiger(cat):
+* sytax is to use ```super()``` to call to parent, followed by its method then its pramater
+* Example ```super().__init__(wiskers)```
+* ![image](https://github.com/user-attachments/assets/66518c97-3567-4193-9fdf-8fea2636a1f9)
+
+
+
 
 ## Operator overloadding
 * you can onverride what a operator does within a call
 * For add you can use ```def __add__ (self,other)```
+* Then when using the you would call it by ``` self.var + other.car
+* ![image](https://github.com/user-attachments/assets/5c4c6698-3b75-4074-84b4-5d4c776bbc72)
+* There are other too
+![image](https://github.com/user-attachments/assets/14801910-4b29-4009-adc1-9719f629d885)
+
 
 
 ## Extra
